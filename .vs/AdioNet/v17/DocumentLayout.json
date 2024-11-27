@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jkumar20\\source\\repos\\AdioNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6CED24-6FF9-4186-8113-7C8FD84DAB43}|AdioNet\\AdioNet.csproj|C:\\Users\\jkumar20\\source\\repos\\AdioNet\\adionet\\connectedenviroment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6CED24-6FF9-4186-8113-7C8FD84DAB43}|AdioNet\\AdioNet.csproj|solutionrelative:adionet\\connectedenviroment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6CED24-6FF9-4186-8113-7C8FD84DAB43}|AdioNet\\AdioNet.csproj|c:\\users\\jkumar20\\source\\repos\\adionet\\adionet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6CED24-6FF9-4186-8113-7C8FD84DAB43}|AdioNet\\AdioNet.csproj|solutionrelative:adionet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jkumar20\\source\\repos\\AdioNet\\AdioNet\\Program.cs",
+              "RelativeDocumentMoniker": "AdioNet\\Program.cs",
+              "ToolTip": "C:\\Users\\jkumar20\\source\\repos\\AdioNet\\AdioNet\\Program.cs",
+              "RelativeToolTip": "AdioNet\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:50:30.757Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectedEnviroment.cs",
+              "DocumentMoniker": "C:\\Users\\jkumar20\\source\\repos\\AdioNet\\AdioNet\\ConnectedEnviroment.cs",
+              "RelativeDocumentMoniker": "AdioNet\\ConnectedEnviroment.cs",
+              "ToolTip": "C:\\Users\\jkumar20\\source\\repos\\AdioNet\\AdioNet\\ConnectedEnviroment.cs",
+              "RelativeToolTip": "AdioNet\\ConnectedEnviroment.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:51:23.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

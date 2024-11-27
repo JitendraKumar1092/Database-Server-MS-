@@ -1,0 +1,7 @@
+C:\Users\jkumar20\source\repos\AdioNet\AdioNet\bin\Debug\AdioNet.exe.config
+C:\Users\jkumar20\source\repos\AdioNet\AdioNet\bin\Debug\AdioNet.exe
+C:\Users\jkumar20\source\repos\AdioNet\AdioNet\bin\Debug\AdioNet.pdb
+C:\Users\jkumar20\source\repos\AdioNet\AdioNet\obj\Debug\AdioNet.csproj.AssemblyReference.cache
+C:\Users\jkumar20\source\repos\AdioNet\AdioNet\obj\Debug\AdioNet.csproj.CoreCompileInputs.cache
+C:\Users\jkumar20\source\repos\AdioNet\AdioNet\obj\Debug\AdioNet.exe
+C:\Users\jkumar20\source\repos\AdioNet\AdioNet\obj\Debug\AdioNet.pdb
